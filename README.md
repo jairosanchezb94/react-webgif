@@ -5,7 +5,8 @@ This project is a gif search website with React
 Api: https://developers.giphy.com/dashboard/
 
 Enjoy and try it
-https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn
+![giphy](https://user-images.githubusercontent.com/32551746/154106606-c24f4177-a7cc-40fb-8e70-930db55e8e97.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
